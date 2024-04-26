@@ -1,5 +1,5 @@
 # Sarder Tanjilur
-• I’m currently working on a React Native mobile application dedicated to changing to the way high-schoolers perceive their life.<br>• I’m currently **learning JavaScript** and **expanding on my skills in Python, HTML, CSS, and Java**.<br>• Ask me about how I started getting into programming and my expectations about my future.<br>• Did you know that I love cats and I'm looking forward to having one as soon as I move out of my current tiny apartment? Now you do...
+• I’m currently working on a **React Native mobile application dedicated to changing to the way high-schoolers perceive their life**.<br>• I’m currently **learning JavaScript** and **expanding on my skills in Python, HTML, CSS, and Java**.<br>• Ask me about how I started getting into programming and my expectations about my future.<br>• Did you know that I love cats and I'm looking forward to having one as soon as I move out of my current tiny apartment? Now you do...
 
 ## Here's my current tech stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,4 +11,5 @@
 ## Catch me on my social media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxrder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sardertanjilur) 
 
+## More projects will be uploaded soon...
 <!-- This was created with GPRM ( https://gprm.itsvg.in ) -->
